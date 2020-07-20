@@ -4,7 +4,9 @@
   "description": "distributed hash table and file system",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,7 @@
     "ipfs": "^0.48.0",
     "ipfs-http-client": "^45.0.0",
     "it-all": "^1.0.2",
+    "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
