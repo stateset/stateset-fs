@@ -1,0 +1,1 @@
+import { CID } from 'ipfs-http-client'
