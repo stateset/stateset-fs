@@ -25,11 +25,13 @@
   },
   "homepage": "https://github.com/stateset/stateset-fs#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "dot-prop": "^5.2.0",
     "ipfs": "^0.48.0",
     "ipfs-http-client": "^45.0.0",
     "it-all": "^1.0.2",
     "next": "^9.4.4",
+    "querystring": "^0.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
